@@ -23,35 +23,35 @@ let imageChoice = ''
 switch (randomNumber) {
   case 0:
     eightBall = 'It is certain'
-    imageChoice = 'image1.jpg'
+    imageChoice = 'imgs/certain.jpg'
     break;
   case 1:
     eightBall = 'It is decidedly so'
-     imageChoice = 'image1.jpg'
+     imageChoice = 'imgs/decidedly.gif'
     break;
   case 2:
     eightBall = 'Reply hazy try again'
-     imageChoice = 'image1.jpg'
+     imageChoice = 'imgs/hazy.png'
     break;
   case 3:
     eightBall = 'Cannot predict now'
-     imageChoice = 'image1.jpg'
+     imageChoice = 'imgs/predict now.png'
     break;
   case 4:
     eightBall = 'Do not count on it'
-     imageChoice = 'image1.jpg'
+     imageChoice = 'imgs/dont count.webp'
     break;
   case 5:
     eightBall = 'My sources say no'
-     imageChoice = 'image1.jpg'
+     imageChoice = 'imgs/my sources.png'
     break;
   case 6:
     eightBall = 'Outlook not so good'
-     imageChoice = 'image1.jpg'
+     imageChoice = 'imgs/outlook.gif'
     break;
   case 7:
     eightBall = 'Signs point to yes'
-     imageChoice = 'image1.jpg'
+     imageChoice = 'imgs/point to yes.jpg'
     break;
 
 default:
