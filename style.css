@@ -1,11 +1,20 @@
 body{
     overflow-x: hidden;
-    background-color: aquamarine;
+   
 }
 .sleep{
-   transition: 1s ease-in-out;
-}
-.sleep:hover{
     transform: scale(1.5);
-    transition: 1s ease-in-out;
+   
+}
+    
+
+.sleep:hover{
+    transition: 1s  ease-in-out; 
+}
+
+.dogs{
+
+}
+html{
+
 }
