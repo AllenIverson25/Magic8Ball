@@ -35,7 +35,7 @@ switch (randomNumber) {
     break;
   case 3:
     eightBall = 'Cannot predict now'
-     imageChoice = 'imgs/predict now.png'
+     imageChoice = 'imgs/cannnot.png'
     break;
   case 4:
     eightBall = 'Do not count on it'
